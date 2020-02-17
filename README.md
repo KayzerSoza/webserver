@@ -1,1 +1,1 @@
-Simple web server
+Simple http server
